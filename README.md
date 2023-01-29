@@ -4,7 +4,7 @@ Sebuah tools yang bisa digunakan untuk menginput data keuangan dari WhatsApp men
 
 Cara Menggunakan
 
-1.Buat GoogleSheet Baru
+1.Buat GoogleSheet Baru.
 2.Pilih Ekstensi > Apps Script
 3.Copy dan Paste Code.gs 
 4.Masukan link GoogleSheet anda pada variabel sheetUrl
