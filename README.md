@@ -32,9 +32,11 @@ Cara Menggunakan
 
 Format Pesan = Lapor # Tipe # Barang # Jumlah # Harga
             
+```sh
+Lapor # Masuk # Mouse # 1 # 500000
+```
             
-            
-            = Lapor # Masuk # Mouse # 1 # 500000
+
              
              
 Sekian
