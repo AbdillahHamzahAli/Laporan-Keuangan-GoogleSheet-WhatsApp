@@ -3,6 +3,7 @@
 Sebuah tools yang bisa digunakan untuk menginput data keuangan dari WhatsApp menuju Googlesheet menggunakan Apps Script
 
 Cara Menggunakan
+
 1.Buat GoogleSheet Baru
 2.Pilih Ekstensi > Apps Script
 3.Copy dan Paste Code.gs 
